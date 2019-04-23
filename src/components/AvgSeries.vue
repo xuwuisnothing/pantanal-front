@@ -62,7 +62,13 @@ export default {
             }]
         };
         chart.setOption(option);
+    }  , 
+
+    queryData : function(){
+        
     }
+
+
 }
 </script>
 
